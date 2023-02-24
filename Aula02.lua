@@ -1,38 +1,34 @@
---gera um número aleatório
-function cria_numero_aleatorio()
-    math.randomseed(os.time())
-    return math.random(1,100)
-end
+nome="Daniel"
+num=10
+valor=5.2
+logica=true
+vazia=nil
 
---captura o palpite do usuário
-function captura_palpite(tentativas)
-    while true do
-        print("Tentativa "..tentativas)
-        palpite = io.read()
-        if type(tonumber(palpite)) == "number" then
-            palpite = tonumber(palpite)
-            if palpite > 100 or palpite < 1 then
-                print("Tente um numero entre 1 e 100")
-            else
-                return palpite
-            end
-        else
-            print("Digite um numero")
-        end
-    end
-end
+--Dizendo quais tipos que as variáveis são
 
-numero_secreto = cria_numero_aleatorio()
-tentativas = 0
-while true do
-    palpite = captura_palpite(tentativas)
-    tentativas = tentativas + 1
-    if palpite == numero_secreto then
-        print("Parabéns! Você acertou o número em "..tentativas.." tentativas!")
-        break
-    elseif palpite < numero_secreto then
-        print("Seu palpite foi muito baixo.")
-    else
-        print("Seu palpite foi muito alto.")
-    end
-end
+print(type(nome))
+print("Tipo:",type(nome),"valor:",nome)
+print(type(num))
+print("Tipo:",type(nome),"valor:",num)
+print(type(valor))
+print("Tipo:",type(nome),"valor:",valor)
+print(type(logica))
+print("Tipo:",type(nome),"valor:",logica)
+print(type(vazia))
+print("Tipo:",type(nome),"valor:",vazia)
+
+print("Print e Tipo:",type(print))
+print("Type  e Tipo:",type(type))
+
+soma=10+5
+print(soma)
+
+num1=10
+num2=2
+soma=num1+num2
+print("Soma de",num1,"com",num2,"e igual a",soma)
+
+num3=20
+num4=10
+soma=num3+num4
+print("Soma de\n",num1,"com",num2,"e igual a",soma)
