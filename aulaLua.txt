@@ -1,0 +1,8 @@
+Aula Lua :
+
+aula01 = print
+02 = Tipo de variáveis
+03 = Guardando algo na variável e perguntando pra pessoa
+04 = Soma
+05 = Operadores
+06 = Caracteres de Escape
