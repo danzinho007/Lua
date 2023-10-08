@@ -1,0 +1,94 @@
+Desafios Lua :
+
+10 exerc�cios : 
+
+N�vel 1 :
+
+Imprima "Ol�, mundo!" na tela
+Armazene um n�mero em uma vari�vel e imprima-o
+Armazene uma string em uma vari�vel e imprima-a
+Crie uma fun��o que adiciona dois n�meros e retorna o resultado
+Crie uma fun��o que recebe uma string e a imprime na tela
+Armazene um n�mero em uma vari�vel e imprima se � par ou �mpar
+Armazene tr�s n�meros em vari�veis e imprima o maior deles
+Armazene uma lista de n�meros em uma vari�vel e imprima o total de elementos na lista
+Armazene uma lista de nomes em uma vari�vel e imprima cada nome em uma nova linha
+Crie uma tabela (tabela Lua) com chave-valor e imprima o valor de uma determinada chave
+
+N�vel 2 :
+
+Crie uma fun��o recursiva para calcular o fatorial de um n�mero
+Crie uma fun��o para inverter uma string
+Crie uma fun��o para encontrar o maior n�mero em uma lista sem usar a fun��o Lua "max"
+Crie uma fun��o para encontrar o menor n�mero em uma lista sem usar a fun��o Lua "min"
+Crie uma fun��o para contar o n�mero de ocorr�ncias de uma determinada letra em uma string
+Crie uma fun��o para verificar se uma string � um pal�ndromo
+Crie uma fun��o para ordenar uma lista de n�meros em ordem crescente
+Crie uma fun��o para encontrar a m�dia de uma lista de n�meros
+Crie uma fun��o para encontrar a soma de uma lista de n�meros
+Crie uma fun��o para encontrar o n-�simo termo de uma sequ�ncia de Fibonacci
+
+N�vel 3 :
+
+Crie uma fun��o para encontrar o n�mero mais frequente em uma lista
+Crie uma fun��o para encontrar o n-�simo n�mero primo
+Crie uma fun��o para encontrar todas as permuta��es de uma string
+Crie uma fun��o para encontrar o menor comum m�ltiplo de uma lista de n�meros
+Crie uma fun��o para encontrar o maior divisor comum de uma lista de n�meros
+Crie uma fun��o para encontrar todos os subconjuntos de uma lista
+Crie uma fun��o para encontrar todas as combina��es de um conjunto de elementos
+Crie uma fun��o para encontrar a profundidade de uma �rvore bin�ria
+Crie uma fun��o para encontrar o caminho mais curto em um grafo
+Crie uma fun��o para encontrar a �rvore geradora m�nima em um grafo
+
+N�vel 4 :
+
+Crie uma fun��o para encontrar o menor caminho em um labirinto
+Crie uma fun��o para encontrar o conjunto de todos os v�rtices ating�veis em um grafo
+Crie uma fun��o para encontrar o conjunto de todos os v�rtices n�o alcan��veis em um grafo
+Crie uma fun��o para encontrar o conjunto de todos os ciclos em um grafo
+Crie uma fun��o para verificar se um grafo � conexo
+Crie uma fun��o para encontrar a ordem topol�gica de um grafo
+Crie uma fun��o para encontrar o melhor caminho em um problema de programa��o din�mica
+Crie uma fun��o para encontrar o melhor caminho em um problema de escolha de caminho
+Crie uma fun��o para encontrar a ordem de preced�ncia de opera��es matem�ticas
+Crie uma fun��o para encontrar a ordem de preced�ncia de opera��es l�gicas
+
+N�vel 5 :
+
+Implementar uma rede neural para reconhecimento de imagem
+Criar um algoritmo de classifica��o de texto utilizando t�cnicas de processamento de linguagem natural
+Implementar um algoritmo de aprendizado de m�quina para prever tend�ncias de mercado
+Criar uma aplica��o de rastreamento de objetos em tempo real utilizando t�cnicas de vis�o computacional
+Implementar uma solu��o de processamento em grande escala para an�lise de dados de log
+Criar uma aplica��o de reconhecimento de fala utilizando t�cnicas de processamento de sinais de �udio
+Implementar um algoritmo de compress�o de dados avan�ado
+Criar uma aplica��o de reconhecimento de padr�es utilizando t�cnicas de aprendizado n�o supervisionado
+Implementar uma solu��o de roteamento de ve�culos utilizando t�cnicas de otimiza��o de rotas
+Criar uma aplica��o de processamento de dados em tempo real utilizando t�cnicas de processamento distribu�do
+
+N�vel 6 :
+
+Implementar uma rede neural profunda para reconhecimento de imagem
+Criar um algoritmo de aprendizado de m�quina para prever pre�os de a��es utilizando dados de fluxo de not�cias
+Implementar uma solu��o de processamento distribu�do para an�lise de dados em grande escala
+Criar uma aplica��o de reconhecimento de fala utilizando t�cnicas de aprendizado de m�quina
+Implementar uma solu��o de intelig�ncia artificial para jogos de tabuleiro
+Criar uma aplica��o de reconhecimento de objetos utilizando t�cnicas de aprendizado profundo
+Implementar uma solu��o de intelig�ncia artificial para previs�o de tempo
+Criar uma aplica��o de processamento de linguagem natural utilizando t�cnicas de aprendizado profundo
+Implementar uma solu��o de computa��o qu�ntica para otimiza��o de rotas
+Criar uma aplica��o de reconhecimento de padr�es utilizando t�cnicas de aprendizado de m�quina avan�adas.
+
+N�vel 7 :
+
+Implementar uma solu��o de aprendizado de m�quina para previs�o de tempo utilizando dados meteorol�gicos de alta resolu��o
+Criar uma aplica��o de reconhecimento de objetos utilizando t�cnicas de aprendizado profundo e vis�o computacional avan�ada
+Implementar uma solu��o de intelig�ncia artificial para processamento de dados de imagem m�dica
+Criar uma aplica��o de reconhecimento de fala utilizando t�cnicas de aprendizado de m�quina avan�adas
+Implementar uma solu��o de intelig�ncia artificial para jogos de tabuleiro complexos
+Criar uma aplica��o de processamento de linguagem natural utilizando t�cnicas de aprendizado profundo avan�adas
+Implementar uma solu��o de computa��o qu�ntica para otimiza��o de rotas utilizando algoritmos qu�nticos
+Criar uma aplica��o de reconhecimento de padr�es utilizando t�cnicas de aprendizado de m�quina avan�adas e processamento de sinais
+Implementar uma solu��o de intelig�ncia artificial para an�lise de sentimentos em grande escala
+Criar uma aplica��o de intelig�ncia artificial para previs�o de falhas em equipamentos industriais.
