@@ -14,7 +14,7 @@ print(2>3)
 print(2<3)
 print(2<=3)
 
--- Cria uma vari�vel chamada OlaMundo e coloca o texto Ol� Mundo nela
+-- Cria uma vari�vel chamada OlaMundo e coloca o texto Ola Mundo nela
 OlaMundo = "Ola Mundo"
--- Exibe o valor da vari�vel OlaMundo
+-- Exibe o valor da variavel OlaMundo
 print(OlaMundo)
